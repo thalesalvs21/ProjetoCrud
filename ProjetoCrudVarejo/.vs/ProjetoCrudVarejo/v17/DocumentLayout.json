@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\Atividades e projetos escola\\LogP\\ProjetoCrudVarejo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejo.csproj|d:\\atividades e projetos escola\\logp\\projetocrudvarejo\\projetocrudvarejo\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejo.csproj|solutionrelative:projetocrudvarejo\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejoThalesAlves.csproj|d:\\atividades e projetos escola\\logp\\projetocrudvarejo\\projetocrudvarejo\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejoThalesAlves.csproj|solutionrelative:projetocrudvarejo\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejo.csproj|d:\\atividades e projetos escola\\logp\\projetocrudvarejo\\projetocrudvarejo\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejo.csproj|D:\\Atividades e projetos escola\\LogP\\ProjetoCrudVarejo\\projetocrudvarejo\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejo.csproj|solutionrelative:projetocrudvarejo\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejo.csproj|d:\\atividades e projetos escola\\logp\\projetocrudvarejo\\projetocrudvarejo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejoThalesAlves.csproj|d:\\atividades e projetos escola\\logp\\projetocrudvarejo\\projetocrudvarejo\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejoThalesAlves.csproj|solutionrelative:projetocrudvarejo\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejo.csproj|D:\\Atividades e projetos escola\\LogP\\ProjetoCrudVarejo\\projetocrudvarejo\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejo.csproj|solutionrelative:projetocrudvarejo\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejoThalesAlves.csproj|d:\\atividades e projetos escola\\logp\\projetocrudvarejo\\projetocrudvarejo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejoThalesAlves.csproj|solutionrelative:projetocrudvarejo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejo.csproj|D:\\Atividades e projetos escola\\LogP\\ProjetoCrudVarejo\\projetocrudvarejo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejo.csproj|solutionrelative:projetocrudvarejo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejo.csproj|d:\\atividades e projetos escola\\logp\\projetocrudvarejo\\projetocrudvarejo\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejo.csproj|solutionrelative:projetocrudvarejo\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejoThalesAlves.csproj|d:\\atividades e projetos escola\\logp\\projetocrudvarejo\\projetocrudvarejo\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{839D630F-5B1E-4D50-AF4A-E807B52AFF94}|ProjetoCrudVarejo\\ProjetoCrudVarejoThalesAlves.csproj|solutionrelative:projetocrudvarejo\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Cliente.cs",
               "DocumentMoniker": "D:\\Atividades e projetos escola\\LogP\\ProjetoCrudVarejo\\ProjetoCrudVarejo\\Cliente.cs",
               "RelativeDocumentMoniker": "ProjetoCrudVarejo\\Cliente.cs",
@@ -38,8 +50,33 @@
               "RelativeToolTip": "ProjetoCrudVarejo\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T23:05:24.779Z",
+              "WhenOpened": "2025-11-12T21:55:45.282Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "D:\\Atividades e projetos escola\\LogP\\ProjetoCrudVarejo\\ProjetoCrudVarejo\\Conexao.cs",
+              "RelativeDocumentMoniker": "ProjetoCrudVarejo\\Conexao.cs",
+              "ToolTip": "D:\\Atividades e projetos escola\\LogP\\ProjetoCrudVarejo\\ProjetoCrudVarejo\\Conexao.cs",
+              "RelativeToolTip": "ProjetoCrudVarejo\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:55:03.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Atividades e projetos escola\\LogP\\ProjetoCrudVarejo\\ProjetoCrudVarejo\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProjetoCrudVarejo\\Cliente.cs",
+              "ToolTip": "D:\\Atividades e projetos escola\\LogP\\ProjetoCrudVarejo\\ProjetoCrudVarejo\\Cliente.cs",
+              "RelativeToolTip": "ProjetoCrudVarejo\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:05:24.779Z"
             },
             {
               "$type": "Document",
@@ -51,8 +88,7 @@
               "RelativeToolTip": "ProjetoCrudVarejo\\Conexao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T22:36:56.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T22:36:56.136Z"
             },
             {
               "$type": "Document",
@@ -64,12 +100,24 @@
               "RelativeToolTip": "ProjetoCrudVarejo\\frmCliente.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAADwvywAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T22:31:51.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T22:31:51.174Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmCliente.cs",
+              "DocumentMoniker": "D:\\Atividades e projetos escola\\LogP\\ProjetoCrudVarejo\\ProjetoCrudVarejo\\frmCliente.cs",
+              "RelativeDocumentMoniker": "ProjetoCrudVarejo\\frmCliente.cs",
+              "ToolTip": "D:\\Atividades e projetos escola\\LogP\\ProjetoCrudVarejo\\ProjetoCrudVarejo\\frmCliente.cs",
+              "RelativeToolTip": "ProjetoCrudVarejo\\frmCliente.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:54:34.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "frmCliente.cs [Design]",
               "DocumentMoniker": "D:\\Atividades e projetos escola\\LogP\\ProjetoCrudVarejo\\ProjetoCrudVarejo\\frmCliente.cs",
               "RelativeDocumentMoniker": "ProjetoCrudVarejo\\frmCliente.cs",

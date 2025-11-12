@@ -1,0 +1,87 @@
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\ProjetoCrudVarejo.exe.config
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\ProjetoCrudVarejo.exe
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\ProjetoCrudVarejo.pdb
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\BouncyCastle.Cryptography.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\Google.Protobuf.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\K4os.Compression.LZ4.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\K4os.Hash.xxHash.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\MySql.Data.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Buffers.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.IO.Pipelines.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Memory.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Numerics.Vectors.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\ZstdSharp.dll
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\BouncyCastle.Cryptography.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\Google.Protobuf.pdb
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\Google.Protobuf.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\K4os.Compression.LZ4.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\K4os.Hash.xxHash.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\MySql.Data.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Buffers.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Configuration.ConfigurationManager.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.IO.Pipelines.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Memory.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Numerics.Vectors.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejoThalesAlves.csproj.AssemblyReference.cache
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejo.frmCliente.resources
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejo.frmPrincipal.resources
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejo.Properties.Resources.resources
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejoThalesAlves.csproj.GenerateResource.cache
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejoThalesAlves.csproj.CoreCompileInputs.cache
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejoThalesAlves.csproj.CopyComplete
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejo.exe
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejo.pdb
+H:\logP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejo.frmFornecedor.resources
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\ProjetoCrudVarejo.exe.config
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\ProjetoCrudVarejo.exe
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\ProjetoCrudVarejo.pdb
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\Google.Protobuf.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\K4os.Compression.LZ4.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\K4os.Hash.xxHash.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\MySql.Data.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Buffers.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.IO.Pipelines.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Memory.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Numerics.Vectors.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\ZstdSharp.dll
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\Google.Protobuf.pdb
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\Google.Protobuf.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\K4os.Compression.LZ4.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\K4os.Hash.xxHash.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\MySql.Data.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Buffers.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.IO.Pipelines.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Memory.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Numerics.Vectors.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejoThalesAlves.csproj.AssemblyReference.cache
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejo.exe.config
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejo.frmCliente.resources
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejo.frmFornecedor.resources
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejo.frmPrincipal.resources
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejo.Properties.Resources.resources
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejoThalesAlves.csproj.GenerateResource.cache
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejoThalesAlves.csproj.CoreCompileInputs.cache
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoC.376FCBEE.Up2Date
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejo.exe
+D:\Atividades e projetos escola\LogP\ProjetoCrudVarejo\ProjetoCrudVarejo\obj\Debug\ProjetoCrudVarejo.pdb

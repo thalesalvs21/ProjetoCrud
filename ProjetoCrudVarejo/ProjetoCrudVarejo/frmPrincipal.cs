@@ -22,5 +22,11 @@ namespace ProjetoCrudVarejo
             frmCliente c = new frmCliente();
             c.ShowDialog();
         }
+
+        private void cadastroDeFornecedorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmFornecedor f = new frmFornecedor();
+            f.ShowDialog();
+        }
     }
 }
